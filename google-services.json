@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "61139223888",
+    "firebase_url": "https://flutter-chat-77591.firebaseio.com",
+    "project_id": "flutter-chat-77591",
+    "storage_bucket": "flutter-chat-77591.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:61139223888:android:b1977cdfe42932fd429855",
+        "android_client_info": {
+          "package_name": "com.keshu.chat_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "61139223888-115ab4oe1fh373vak1uci5h8mopm8jsc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBBYUO0as3yYVekLk7cGy7UGjQhAhE0840"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "61139223888-115ab4oe1fh373vak1uci5h8mopm8jsc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
